@@ -1,0 +1,295 @@
+.a{
+	height: 400px;
+	width: 1000px;
+	background-color: blue;
+}
+#a{
+	background-color: blueviolet;
+	width: 100px;
+	height: 30px;
+	margin-top: 50px;
+	border: 1px solid blueviolet;
+	border-radius: 5px;
+}
+#b{
+	height: 400px;
+	width: 350px;
+	background-color: white;
+	float: left;
+	padding-left: 100px;
+	padding-right: 50px;
+	
+}
+.b{
+	color: blueviolet;
+	margin-top: 80px;
+}
+.c{
+	height: 400px;
+	width: 500px;
+	background-color: violet;
+	float: right;
+	background-image: url('images/pic1.webp');
+	background-size: 100% 100%;
+}
+.d{
+	height: 500px;
+	width: 1000px;
+	background-color: blueviolet;
+	padding-top: 50px;
+}
+.e{
+	color: white;
+}
+.f{
+	color: white;
+}
+.g{
+	height: 250px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 150px;
+	margin-top: 30px;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+.h{
+	height: 250px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 50px;
+	margin-top: 30px;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+.i{
+	height: 250px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 50px;
+	margin-top: 30px;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+.j{
+	color: blueviolet;
+}
+#c{
+	background-color: whitesmoke;
+	width: 100px;
+	height: 30px;
+	
+	border: 1px solid blueviolet;
+	border-radius: 5px;
+}
+.k{
+	height: 400px;
+	width: 1000px;
+	background-color: white;
+}
+#d{
+	background-image: url('images/pic2.jpeg');
+	height: 350px;
+	width: 400px;
+	background-size: 100% 100%;
+	float: left;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+#e{
+	float: right;
+	height: 400px;
+	width: 500px;
+	background-color: white;
+	margin-left: 50px;
+}
+.l{
+	height: 400px;
+	width: 1000px;
+	background-color: whitesmoke;
+}
+#f{
+	color: blueviolet;
+	padding-top: 50px;
+}
+#g{
+	height: 70px;
+	width: 600px;
+	margin-bottom: 10px;
+	background-color: white;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 10px;
+}
+#h{
+	height: 70px;
+	width: 600px;
+	background-color: white;
+	margin-bottom: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 10px;
+}
+#i{
+	height: 70px;
+	width: 600px;
+	background-color: blueviolet;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 10px;
+}
+.m{
+	float: left;
+	font-size: 55px;
+	color: blueviolet;
+}
+.n{
+	float: left;
+	font-size: 55px;
+	color: blueviolet;
+}
+.o{
+	float: left;
+	font-size: 55px;
+	color: white;
+}
+.p{
+	height: 400px;
+	width: 1000px;
+	background-color: white;
+}
+#k{
+	color: blueviolet;
+	float: left;
+}
+#l{
+	width: 400px;
+	height: 350px;
+	background-color: white;
+	background-image: url('images/pic3.png');
+	float: right;
+	background-size: 100% 100%;
+	margin-right: 80px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+#m{
+	height: 400px;
+	width: 500px;
+	padding-top: 50px;
+
+	float: left;
+}
+#n{
+	height: 400px;
+	width: 1000px;
+	background-image: url('images/pic5.png');
+	background-size: 100% 100%;
+}
+.q{
+	color: blueviolet;
+
+}
+.r{
+	color: blueviolet;
+	float: left;
+}
+#o{
+	height: 200px;
+	width: 300px;
+	background-color: white;
+	position: relative;
+	top:150px;
+	right: 250px;
+
+}
+.s{
+	background-color: whitesmoke;
+	width: 100px;
+	height: 30px;
+	
+	border: 1px solid blueviolet;
+	border-radius: 5px;
+}
+.t{
+	height: 400px;
+	width: 1000px;
+	background-color: blue;
+}
+.u{
+	height: 350px;
+	width: 350px;
+	background-color: white;
+	float: left;
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right: 50px;
+}
+.v{
+	color: blueviolet;
+}
+.w{
+	height: 390px;
+	width: 400px;
+	background-color: white;
+	float: right;
+	padding-top: 10px;
+	padding-right: 100px;
+}
+.y{
+	color: blueviolet;
+	font-size: 50px;
+
+}
+#r{
+	width: 1000px;
+	height: 200px;
+	background-color: blueviolet;
+}
+.z{
+	color: white;
+	padding-top: 30px;
+}
+#s{
+	color: white;
+	font-size: 30px;
+	margin:10px ;
+}
+#t{
+	color: blue;
+	margin:10px;
+
+
+}
+#u{
+	color: blueviolet;
+	font-size: 30px;
+	display: inline-block;
+}
+#y{
+	color: blue;
+	font-size: 40px;
+	border: 1px solid whitesmoke;
+	border-radius: 100px;
+	background-color: whitesmoke;
+	float: left;
+}
+#w{
+	color: white;
+	background-color: blueviolet;
+	border: 1px solid blueviolet;
+	border-radius: 30px;
+	height: 30px;
+}
